@@ -1,0 +1,1 @@
+main1 file contains of the SQL database with all 25 fictional business partners as well on a search function to sort through. llm file contains the large language model created using kor, which extracts information form raw data like emails or texts and inserts the informationm into the database.
